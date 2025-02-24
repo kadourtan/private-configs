@@ -10,7 +10,7 @@ def main():
     
 
     
-    hidden_passphrase = "cGFzc3Rhbg"  
+    hidden_passphrase = "ZmFrZV9wYXNzd29yZA"  
     print("Security tool is running...")
 
 if __name__ == "__main__":
